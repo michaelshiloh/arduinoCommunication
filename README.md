@@ -6,7 +6,7 @@
 
 Use Serial Monitor to see the results
 
-then try arduinoSend
+then try ![arduinoSend](arduinoSend/arduinoSend.ino)
 
 ### Experimenting with Serial.parseInt()
 
