@@ -27,4 +27,9 @@ then try ![arduinoReceive](arduinoReceive/arduinoReceive.ino)
 
 ### How to communicate between two Arduinos 
 
-1. One Arduino gets ![arduinoSend](arduinoSend/arduinoSend.ino), the other gets  ![arduinoReceive](arduinoReceive/arduinoReceive.ino)
+One Arduino gets ![arduinoSend](arduinoSend/arduinoSend.ino), the other gets  ![arduinoReceive](arduinoReceive/arduinoReceive.ino)
+
+
+### Can both Arduinos send and receive?
+
+Yes!  ![arduinoSendAndReceive](arduinoSend/arduinoSendAndReceive.ino),
